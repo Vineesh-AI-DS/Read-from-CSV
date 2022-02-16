@@ -16,6 +16,8 @@ Check your systems maximun column with the pd.options.display.max_columun statem
 Increase the maximum number of rows to display the entire DataFrame.
 ## PROGRAM:
 ```
+Developed by: Vineesh.M
+Register no: 212221230122
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
